@@ -1,0 +1,26 @@
+<resources>
+    <string name="lbl_loading">Loading…</string>
+    <string name="lbl_on_boarding_previous"><u>Previous</u></string>
+    <string name="lbl_on_boarding">Next</string>
+    <string name="lbl_title_on_boarding_1">Order Makanan Segampang Main Medsos</string>
+    <string name="lbl_title_on_boarding_2">Pesan Sekaligus Dari Resto Berbeda? Bisa!</string>
+    <string name="lbl_title_on_boarding_3">Banyak Metode Pembayaran</string>
+    <string name="lbl_subtitle_on_boarding_1">Kami yang pertama tampil secantik dan semudah ini </string>
+    <string name="lbl_subtitle_on_boarding_2">Cuma pakai satu driver, orderanmu bisa lebih cepat dan efisien</string>
+    <string name="lbl_subtitle_on_boarding_3">Bayar pesanan bisa pakai banyak e-wallet favoritmu.</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_email_address">Email address</string>
+    <string name="lbl_password">Password</string>
+    <string name="password">Password</string>
+    <string name="lbl_sign_in">Sign In</string>
+    <string name="lbl_email_empty">Email is required</string>
+    <string name="lbl_email_not_valid">Email is not valid</string>
+    <string name="lbl_password_empty">Password is required</string>
+    <string name="lbl_password_not_valid">Password is not valid</string>
+    <string name="lbl_get_started">Get Started</string>
+    <string name="lbl_next">Next</string>
+    <string name="lbl_press_back_again_to_exit">press back again to exit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

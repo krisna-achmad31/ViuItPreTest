@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0036</color>
+    <color name="colorPrimaryDark">#152C52</color>
+    <color name="colorAccent">#FF6787</color>
+    <color name="colorSecondaryAccent">#00B4D8</color>
+    <color name="colorTertiaryAccent">#173F7D</color>
+    <color name="colorOpaque">#40FFFFFF</color>
+
+    <color name="colorHoverButton">#14FFE3</color>
+
+    <color name="colorBackgroundDark">#0E1A32</color>
+    <color name="colorBackgroundPrimary">#022338</color>
+    <color name="colorBackgroundCategory">#033C63</color>
+    <color name="colorUnselectedTab">#102341</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorBlack50">#80000000</color>
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDivide">#DBDBDB</color>
+    <color name="colorGray">#827d7d</color>
+    <color name="colorRed">#FF4747</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorSelectedChip">#0480D6</color>
+
+    <color name="colorUnselected">#9F9F9F</color>
+    <color name="colorSelected">#F2F2F2</color>
+
+    <color name="colorBaseTextHeader">@color/colorBlack</color>
+    <color name="colorBaseText">@color/colorBlack</color>
+
+    <color name="com_facebook_button_background_color_focused_disabled">#3C5A99</color>
+    <color name="com_facebook_button_background_color_focused">#3C5A99</color>
+    <color name="com_facebook_button_border_color_focused">#3C5A99</color>
+
+    <color name="spotlightBackground">#BF000000</color>
+</resources>
